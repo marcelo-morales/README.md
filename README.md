@@ -15,5 +15,7 @@ I enjoy playing video games. Recently, I've been playing a lot of League of Lege
 
 # Reach out to me via...
 [LinkedIn](https://www.linkedin.com/in/marcelomoraless/)
-[Email](lmoral10@jhu.edu)
+[Email](mailto:lmoral10@jhu.edu)
+
+[Email](mailto:"lmoral10@jhu.edu")
 
